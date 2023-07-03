@@ -431,24 +431,13 @@ input:focus {
 
 }
 
-.reference::before {
-    content: '\F18A';
+.fa-bell,
+.fa-users,
+.fa-bullhorn,
+.fa-download {
+    color: #2370f4 !important;
     margin-right: .5em;
-}
 
-.custo-care::before {
-    content: '\F18A';
-    margin-right: .5em;
-}
-
-.advertise::before {
-    content: '\F18A';
-    margin-right: .5em;
-}
-
-.dwn-app::before {
-    content: '\F18A';
-    margin-right: .5em;
 }
 
 .mrg-left {
