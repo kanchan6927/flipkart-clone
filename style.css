@@ -707,10 +707,11 @@ input:focus {
     flex-direction: column;
     position: absolute;
     top: 60px;
-    width: 15%;
+    width: 20%;
     background: white;
     display: none;
     transition: all .5s ease-in-out;
+    z-index: 1;
 }
 
 .log-button:hover .log-ul {
